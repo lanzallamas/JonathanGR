@@ -1,2 +1,0 @@
-# JonathanGR
-Practica 1
